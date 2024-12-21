@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @W01-vian
+- 👋 Hi, I’m @Javeria Faisal
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python,java,c++,c,SQL
 - 💞️ I’m looking to collaborate on Machine Learning
-- 📫 How to reach me kimjiminine@gmail.com
+- 📫 How to reach me jave26.wolf@gmail.com
 - 😄 Pronouns: ella
 - ⚡ Fun fact: Programming is done by programmers when they are sad, happy, or angry
 
