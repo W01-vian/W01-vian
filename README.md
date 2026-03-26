@@ -23,7 +23,7 @@
   <a href="https://linkedin.com/in/javeriafaisal2006" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:javeriafaisal2006@example.com" target="_blank">
+  <a href="mailto: jave26.wolf@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/W01-vian" target="_blank">
